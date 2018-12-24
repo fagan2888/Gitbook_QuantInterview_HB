@@ -17,8 +17,6 @@
 * What are the challenges in balancing work and personal life
 * What questions you advise to ask in an interview\( ask in NW Session\)
 
-
-
 ### About the Industry
 
 * any particular resources/trade journals/periodicals to read
@@ -26,8 +24,6 @@
 * how would you describe the company culture
   * centralized, decentralized, hierarchical, falt, values of the organization, matrix teams...
 * What made you to choose to work here rather than other companies
-
-
 
 ### Finishing the Conversation
 
@@ -40,11 +36,7 @@
 * Don't ask HR questions
 * Do keep notes of the contacts, do regular follow-ups\(Tracing sheet\)
 
-
-
-### Sample Networking Scripts
-
-
+### 
 
 
 
