@@ -6,7 +6,7 @@
 * [Behavioral Questions](second-question.md)
 * [Market Questions](market-questions.md)
 * Statistics and Machine Learning
-* Math, Probability and Brain-teasers
+* [Math, Probability and Brain-teasers](math-probability-and-brain-teasers.md)
 * Programming
 * [Questions to Ask](questions-to-ask.md)
 * [Financial Math](financial-math.md)
