@@ -1,9 +1,5 @@
 # General Market Questions
 
-
-
-
-
 Advanced Ones
 
 * Correlation cross-markets \(eg. Equity vs Bond\)
@@ -16,6 +12,8 @@ Advanced Ones
 Using Systematic Trading Strategies as an Example
 
 ### Performance Analysis
+
+Year 2017 \(Best U.S. Stock Year\) and 2018\(Worst Year in most strategies\)
 
 * Cross-Asset Risk Premia
   * market sensitivity objectives management
@@ -34,10 +32,25 @@ Using Systematic Trading Strategies as an Example
         * risk parity, generalized risk parity 
 * Trend 
 * Volatility Carry
+  * Vol Carry
+  * Dispersion
+  * Dynamic Gamma
 * Equity Factor Strategies
 * Commodity Risk Premia
+  * Carry
+  * COT
+  * Curve
+* IR
+  * carry
+  * value
+* FX
+  * carry, curve
 
+### Strategy Design
 
+* Risk Management Spectrum
+  * hedging techniques
+    * intraday momentum \(short gamma position held by dealers hedging at close will revert in the morning\)
 
 
 
