@@ -10,4 +10,5 @@
 * Programming
 * [Questions to Ask](questions-to-ask.md)
 * [Financial Math](financial-math.md)
+* Interview Checklist
 

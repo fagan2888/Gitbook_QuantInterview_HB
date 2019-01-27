@@ -9,9 +9,13 @@
     * generalized/standard product vs differentiated and specialized area
     * motivations vs limitations/restrictions to do things
       * reliance on others, efficiency of the organization
+    * Business Center and Europe
+      * diversify away from Risk Premia, to Retail and Execution 
 * Current work
   * core business model
-    * pros, cons
+    * pros: small group, innovative, people and culture
+    *  cons
+      * core corporate culture, \(40'000, not specialized for quant\)
   * typical day
     * work percentage: implementation/modeling, discussing/decision making, interaction/client facing
   * **team working**

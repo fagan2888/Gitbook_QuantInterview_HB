@@ -1,15 +1,85 @@
 # General Market Questions
 
-Advanced Ones
+### Key benchmark levels
+
+* Equity Benchmarks/Tradables
+
+  * VIX, VXX
+
+  * DJI
+
+    * DDM
+
+  * SPX
+
+    * SPY
+
+  * IXIC
+    * QQQ
+  * FTSE
+  * MSCI World
+  * EAFE
+    * EFA
+  * DAX
+  * EEM
+  * EWY \(South Korean\)
+  * FXI \(Russia\)
+  * RSX \(China\)
+
+* FX
+
+  * USD
+  * FXE
+  * FXY
+
+* Bond
+  * TLT
+  * HYG
+* Commod
+  * **GLD**
+  * SLV
+* Derivatives
+  * UVXY
+  * 
+
+
+
+### Market Analysis
+
+1. Information Collection
+   1. Trading Journal + Error Log Check
+   2. Ideas/News
+      1. Economic Outlook
+      2. Market Levels
+      3. Market Sentiment \(VIX, Fear Index\)
+      4. Company Theme
+   3. Market Analysis
+      1. market drivers
+      2. 
+2. Customized Analytics
+3. Formulate Questions and Try to find answers
+   1. Trading Logic
+      1. Facts + Prediction 
+      2. any test?
+   2. Risk Analysis
+      1. ex-ante, ex-post
+   3. Target Exposure 
+
+# 
+
+# Advanced
 
 * Correlation cross-markets \(eg. Equity vs Bond\)
-  * equity bond pos:
-  * equity bond neg:
-  * no clear historical conclusion
+  * equity bond pos
+    * DCF Model
+  * equity bond neg
+    * US Gov bond counter-cyclical \(performs good during recessions\)
+  * no clear historical conclusion - not static
+    * Multi-factor Model\(Baele, 2010\)macro economic environment, fundamental factors, liquidity proxies \(play an very important role\)
+    * equity risk premium not static
+    * depends on shock from which market
 
-# **Market Questions of Your Speciality **
 
-Using Systematic Trading Strategies as an Example
 
 ### Performance Analysis
 
@@ -52,5 +122,9 @@ Year 2017 \(Best U.S. Stock Year\) and 2018\(Worst Year in most strategies\)
   * hedging techniques
     * intraday momentum \(short gamma position held by dealers hedging at close will revert in the morning\)
 
+### Factor Investing
+
+* How to test the statistical significance of a new factor/new alpha
+* 
 
 
