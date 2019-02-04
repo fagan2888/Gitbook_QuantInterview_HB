@@ -2,29 +2,24 @@
 
 ### Key benchmark levels
 
-* Equity Benchmarks/Tradables
+Equity Benchmarks/Tradables
 
-  * VIX, VXX
-
-  * DJI
-
-    * DDM
-
-  * SPX
-
-    * SPY
-
-  * IXIC
-    * QQQ
-  * FTSE
-  * MSCI World
-  * EAFE
-    * EFA
-  * DAX
-  * EEM
-  * EWY \(South Korean\)
-  * FXI \(Russia\)
-  * RSX \(China\)
+* VIX, VXX
+* DJI
+* DDM
+* SPX
+* SPY
+* IXIC
+* QQQ
+* FTSE
+* MSCI World
+* EAFE
+* EFA
+* DAX
+* EEM
+* EWY \(South Korean\)
+* FXI \(Russia\)
+* RSX \(China\)
 
 * FX
 
@@ -33,16 +28,16 @@
   * FXY
 
 * Bond
+
   * TLT
   * HYG
+
 * Commod
   * **GLD**
   * SLV
 * Derivatives
   * UVXY
   * 
-
-
 
 ### Market Analysis
 
@@ -65,10 +60,22 @@
       1. ex-ante, ex-post
    3. Target Exposure 
 
-# 
+Tell the story
+
+* time and events
+  * macro economic outlook \(theme + data\)
+  * major market drivers \(asset class/currency, theme\) : where the money is flowing to? 
 
 # Advanced
 
+Macro-economic
+
+* Business Cycle
+  * productivity \(culture, ecosystem, politics, technology\) + Long-term and short-term debt cycle from Ray Dailo
+  * 
+
+* Discrepancies between fundamental data and market outlook
+  * 
 * Correlation cross-markets \(eg. Equity vs Bond\)
   * equity bond pos
     * DCF Model
@@ -78,8 +85,6 @@
     * Multi-factor Model\(Baele, 2010\)macro economic environment, fundamental factors, liquidity proxies \(play an very important role\)
     * equity risk premium not static
     * depends on shock from which market
-
-
 
 ### Performance Analysis
 
