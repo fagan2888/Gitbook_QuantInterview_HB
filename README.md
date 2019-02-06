@@ -41,5 +41,16 @@
 * 0m - 4m\(Jan\)
   * company specific research and job application
 
+## Checklist
+
+* Deliberate practice
+* 4 Steps to answer a quantitative question
+  * clarification: purpose, boundary condition, edge cases
+  * possible solution: list out possible solutions
+    * compare \(time and space\) complexity/calcuations
+    * optimal solution
+  * Coding/Calculate/Present
+  * Test Cases/Examples/Further elaboration
+
 
 

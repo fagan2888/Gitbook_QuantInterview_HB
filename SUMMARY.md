@@ -11,4 +11,5 @@
 * [Questions to Ask](questions-to-ask.md)
 * [Financial Math](financial-math.md)
 * Interview Checklist
+* [What You Need to Remember](what-you-need-to-remember.md)
 
