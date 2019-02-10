@@ -28,13 +28,14 @@
 * Dart game: 3rd dart farther than the first
   * the event nth is the best
 * Monty Hall problem\*
-* 
-#### Expectation, Variance, Covariance and Order Statistics
+* #### Expectation, Variance, Covariance and Order Statistics
 
 #### Process
 
 * 100 passengers, first 1 drunk. others will randomly pick one is seat is taken, prob your seat is taken
 * Birthday  line: choose optimal position in line
+* Amoeba Die out
+  * recurrance
 * Gambler's Ruin Problem\*
 
 #### Random Variables
