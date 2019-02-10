@@ -11,7 +11,9 @@
   * full house: 1.463%
   * two pairs: 4.754%
 * prob 4 people each get an A
+* **expected **number of cards to be turned over before seeing one A
 * throw srictly increasing dice sequence
+* roll dice, 1,2,3 game stops, pay points, expected pay off?
 
 #### Counting
 
@@ -35,11 +37,17 @@
   * if spin the barrel, first and second win
   * first did not die, should you spin the barrel
   * put in two consecutive positions, first did not die
+* meeting prob: arrive in 1h, meet in 5min interval
+* probability of triangle: stick to form a triangle
 
-#### Expectation, Variance, Covariance
+#### Expectation, Variance, Covariance, Order Statistics
 
-#### Order Statistics
-
+* sum of n random variables c.d.f \* 
+* coupon collections N types\*
+  * expected boxes to be opend
+  * open n box, expected number of coupon types
+    * indicator variable
+* joint default probability of two random variables
 * x, y \(or x_1, ..., xn\)_ follow certain distribution, the p.d.f of max\(xi\), min\(xi\) and their expectation
 * correlation of max and min of x1, x2 follow distribution 
   * need to find f\(yz\) using graph
@@ -53,6 +61,10 @@
   * recurrance
 * Gambler's Ruin Problem\*
 * fair coin toss, toss HT in sequence wins
+* Basket ball game, 100 throws, prob proportional to success rate
+* Observe car in 20 min interval p, prob for observing car in 5min
+* Poisson Process expected waiting time
+* connect 100 noodles, the prob to form a circle
 
 #### Random Variables
 
