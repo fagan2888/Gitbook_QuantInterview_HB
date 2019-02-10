@@ -1,32 +1,41 @@
 # Probability
 
-### Card, Coin and Dice
+#### Card, Coin and Dice
 
 * A \(n+1\) coins, B n coins, probability that A has more heads than B?
+* 1000 coins one unfair, 10 times head toss, prob to get unfair coin
+* generate fair prob by unfair coin
 * A and B pick up a card and compare, what's the probability A wins \(in tie, B wins\)
 * probability of in texas-hold'em
   * four of a kind: 0.241%
   * full house: 1.463%
   * two pairs: 4.754%
+* throw srictly increasing 
 
-Counting
+#### Counting
 
 * 11 screwy priates to lock a case, only above 5 can open 
 * probability \(a+10b\)^3 last digit is 1? 
   * binomial theorem 
 
-Events
+#### Events
 
 * put n points in a circle, the probability they all end up in a same semi-circle
 * Chess tournament: what's the probability the strongest and second strongest meet in final? 
 * Bernoulli's Letter Problem
 * n people in the room, what's the probability 2 has same birthday? how many people in the room to make the prob of two same birthday &gt; 1/2
+* All girl world, conditional boy prob
+* Dart game: 3rd dart farther than the first
+  * the event nth is the best
+* Monty Hall problem\*
+* 
+#### Expectation, Variance, Covariance and Order Statistics
 
-Expectation, Variance, Covariance and Order Statistics 
-
-Process
+#### Process
 
 * 100 passengers, first 1 drunk. others will randomly pick one is seat is taken, prob your seat is taken
+* Birthday  line: choose optimal position in line
+* Gambler's Ruin Problem\*
 
 #### Random Variables
 
