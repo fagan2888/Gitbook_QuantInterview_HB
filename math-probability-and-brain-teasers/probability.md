@@ -10,7 +10,8 @@
   * four of a kind: 0.241%
   * full house: 1.463%
   * two pairs: 4.754%
-* throw srictly increasing 
+* prob 4 people each get an A
+* throw srictly increasing dice sequence
 
 #### Counting
 
@@ -28,7 +29,21 @@
 * Dart game: 3rd dart farther than the first
   * the event nth is the best
 * Monty Hall problem\*
-* #### Expectation, Variance, Covariance and Order Statistics
+* candies in a jar: red, blue, green 10,20,30 the probability last is green
+* Russian Roulette
+  * the prob of first and second win
+  * if spin the barrel, first and second win
+  * first did not die, should you spin the barrel
+  * put in two consecutive positions, first did not die
+
+#### Expectation, Variance, Covariance
+
+#### Order Statistics
+
+* x, y \(or x_1, ..., xn\)_ follow certain distribution, the p.d.f of max\(xi\), min\(xi\) and their expectation
+* correlation of max and min of x1, x2 follow distribution 
+  * need to find f\(yz\) using graph
+* 500 random ants expected fall down time
 
 #### Process
 
@@ -37,6 +52,7 @@
 * Amoeba Die out
   * recurrance
 * Gambler's Ruin Problem\*
+* fair coin toss, toss HT in sequence wins
 
 #### Random Variables
 

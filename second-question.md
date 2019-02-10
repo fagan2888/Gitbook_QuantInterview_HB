@@ -1,7 +1,16 @@
-This is the answer to "How can I do X?".
+* Teamwork Example
+* Problem Solving Example
+* Communication Example
+* Strength and Weakness
+* Success and Failure
 
-* What is the current level of
-  * SP500/HSI/FTSE 1m vol skew
+
+
+Group Interview
+
+* Time control and agenda control
+* Analytical and Summarizing
+* Motivate/encourage others, criticize others
 
 
 

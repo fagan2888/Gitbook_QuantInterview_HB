@@ -1,7 +1,7 @@
 * Why you are looking for a new role/Why left previous rold
   * positive side
     * more challenges, next level \( after learning..., next is to learn ... - learning starts from copying\), business model difference
-    * long term goal and principles - where you can add more values
+    * long term goal, motivation and principles - where you can add more values
     * build more new things, more entrepreneur role 
     * software engineering skills \(reusable code\) + modeling skills 
   * negative side
@@ -11,13 +11,20 @@
       * reliance on others, efficiency of the organization
     * Business Center and Europe
       * diversify away from Risk Premia, to Retail and Execution 
+* Self-Introduction
+  * STAR
+  * Key Points
 * Current work
   * core business model
     * pros: small group, innovative, people and culture
-    *  cons
+    * cons
       * core corporate culture, \(40'000, not specialized for quant\)
   * typical day
     * work percentage: implementation/modeling, discussing/decision making, interaction/client facing
+  * **problem solving/challenge**
+    * details, reusable and communicate/work as a team
+    * prioritize things
+    * learn fast
   * **team working**
     * team project sample
     * resolve conflict example 
