@@ -22,6 +22,8 @@ Events
 * Bernoulli's Letter Problem
 * n people in the room, what's the probability 2 has same birthday? how many people in the room to make the prob of two same birthday &gt; 1/2
 
+Expectation, Variance, Covariance and Order Statistics 
+
 Process
 
 * 100 passengers, first 1 drunk. others will randomly pick one is seat is taken, prob your seat is taken
