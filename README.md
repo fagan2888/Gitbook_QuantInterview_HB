@@ -9,6 +9,15 @@
 
 ### Interview Preparation
 
+* Know the role
+  * existing job - replace others or new role
+  * define responsibilities and manage expectations
+* Know yourself
+  * psychological expectation - what kind life you want to live
+  * talent developmemnt
+    * set talent development goals
+    * interest and strength
+  * know the needs of the market
 * Background knowledge
   * learn company business, goals, culture, merits and draw backs
   * founder, leadership, financial, business
