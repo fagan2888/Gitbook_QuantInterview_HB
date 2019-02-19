@@ -1,5 +1,19 @@
 # General Market Questions
 
+#### Present a Trading Idea
+
+1. Conclusion
+   1. direction, horizon
+2. Analysis
+   1. what phonomenon
+   2. what data 
+      1. from model/consensus
+   3. trade horizon analysis
+3. Otherside
+   1. risk
+   2. sensitivity analysis
+   3. risk control/hedging strategies
+
 ### Key benchmark levels
 
 Equity Benchmarks/Tradables
@@ -33,8 +47,10 @@ Equity Benchmarks/Tradables
   * HYG
 
 * Commod
+
   * **GLD**
   * SLV
+
 * Derivatives
   * UVXY
   * 
@@ -71,11 +87,13 @@ Tell the story
 Macro-economic
 
 * Business Cycle
+
   * productivity \(culture, ecosystem, politics, technology\) + Long-term and short-term debt cycle from Ray Dailo
   * 
 
-* Discrepancies between fundamental data and market outlook
-  * 
+* Discrepancies between fundamental data and market outlook  
+  \*
+
 * Correlation cross-markets \(eg. Equity vs Bond\)
   * equity bond pos
     * DCF Model
