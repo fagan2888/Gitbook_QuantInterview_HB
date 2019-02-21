@@ -12,7 +12,8 @@
 #### Logistic Regression
 
 * Intuition - Why do we have it
-  * different contribution of large/small data 
+  * different contribution of large/small data
+    * exponential family and penalize
   * odds, log odds
 * Loss function derive parameter estimation
   * MLE - y is bernoulli function \(entropy loss\)
