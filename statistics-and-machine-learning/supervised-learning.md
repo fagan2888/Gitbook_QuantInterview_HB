@@ -15,7 +15,10 @@
   * different contribution of large/small data 
   * odds, log odds
 * Loss function derive parameter estimation
+  * MLE - y is bernoulli function \(entropy loss\)
 * Gradient Descent
+  * entropy loss
+  * MSE
 
 
 

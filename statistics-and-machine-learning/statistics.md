@@ -17,6 +17,7 @@
   * Type II error, power \(recall\)
 * Error
 * Bias-Variance Decomposition
+* BootStrapping
 
 ### Random Numbers
 
