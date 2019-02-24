@@ -1,5 +1,12 @@
 #### Linear Regression
 
+* Assumptions and intuition
+  * when does the assumptions not important? \(when do analyze rather than prediction\)
+    * indeed a projection from **y** to **X **vector space
+  * diagnostics and treatments
+    * fitted and residual plot
+    * heteroskedasticity
+    * co-linearity 
 * proof MLE Estimate &lt;=&gt; RSS Min Estimate
   * use p.d.f of $$\epsilon$$ on beta
 * Derive beta

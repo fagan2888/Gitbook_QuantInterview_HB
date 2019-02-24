@@ -6,7 +6,9 @@
 * Estimation
   * Method of Moments
   * MLE
-    * calculation: eg. exponential dist
+    * calculation: 
+      *  exponential dist MLE
+      *  binomial MLE \(variance, used in Monte Carlo\)
     * What is Fisher Information
       * cutting variance to half, double the sample size
   * Consistency
@@ -15,9 +17,13 @@
 * Hypothesis Test
   * Type I error, significance \(precision\)
   * Type II error, power \(recall\)
+  * how to test multiple hypothesis\(FWER vs FDR\)
 * Error
 * Bias-Variance Decomposition
-* BootStrapping
+* Computational Approach
+  * Permutation Test
+  * BootStrapping
+    * what is the percentage left out of sample? \(N -&gt; inf for sampling times and sample size\)
 
 ### Random Numbers
 

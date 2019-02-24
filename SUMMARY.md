@@ -10,6 +10,7 @@
 * [Statistics and Machine Learning](statistics-and-machine-learning.md)
   * [Statistics](statistics-and-machine-learning/statistics.md)
   * [Supervised Learning](statistics-and-machine-learning/supervised-learning.md)
+  * [Bayesian Inference and Graphical Models](statistics-and-machine-learning/bayesian-inference-and-graphical-models.md)
 * [Math, Probability and Brain-teasers](math-probability-and-brain-teasers.md)
   * [Calculus and Linear Algebra](math-probability-and-brain-teasers/calculus-and-linear-algebra.md)
   * [Probability](math-probability-and-brain-teasers/probability.md)
