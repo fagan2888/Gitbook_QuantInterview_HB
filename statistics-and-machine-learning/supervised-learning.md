@@ -7,6 +7,8 @@
     * fitted and residual plot
     * heteroskedasticity
     * co-linearity 
+      * regularization via Lasso
+      * PCA \(matrix transformation\)
 * proof MLE Estimate &lt;=&gt; RSS Min Estimate
   * use p.d.f of $$\epsilon$$ on beta
 * Derive beta
@@ -15,6 +17,8 @@
 * Loss Function
   * Blue
   * Huber Loss Function
+* Regularization
+  * Ridge, Lasso \(Scarcity\)
 
 #### Logistic Regression
 
