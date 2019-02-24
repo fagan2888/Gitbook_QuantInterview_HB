@@ -18,5 +18,4 @@
 * [Programming](programming.md)
 * [Financial Math](financial-math.md)
 * [Interview Checklist](interview-checklist.md)
-* Overview
 
