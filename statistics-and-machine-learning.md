@@ -1,7 +1,4 @@
-#### 
 
-#### Gradient Descent
 
-* 
 
 

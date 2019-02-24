@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* Overview
 * [Networking](first-question.md)
 * [Questions to Ask](questions-to-ask.md)
 * [Questions about You](questions-about-you.md)
@@ -17,6 +18,5 @@
 * [Programming](programming.md)
 * [Financial Math](financial-math.md)
 * [Interview Checklist](interview-checklist.md)
-* [What You Need to Remember](what-you-need-to-remember.md)
 * Overview
 
