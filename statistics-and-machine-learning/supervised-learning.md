@@ -1,3 +1,7 @@
+#### 
+
+# Regression
+
 #### Linear Regression
 
 * Assumptions and intuition
@@ -33,6 +37,10 @@
 * Gradient Descent
   * entropy loss
   * MSE
+
+# Tree-Based Models
+
+# Support Vector Machine
 
 
 
