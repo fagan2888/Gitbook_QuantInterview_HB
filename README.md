@@ -12,7 +12,7 @@
   * [Supervised Learning](statistics-and-machine-learning/supervised-learning.md)
 * [Math, Probability and Brain-teasers](math-probability-and-brain-teasers.md)
   * [Calculus and Linear Algebra](math-probability-and-brain-teasers/calculus-and-linear-algebra.md)
-* [Probability](math-probability-and-brain-teasers/probability.md)
+  * [Probability](math-probability-and-brain-teasers/probability.md)
   * [Stochastic Process](math-probability-and-brain-teasers/stochastic-process.md)
   * [Numerical Methods](math-probability-and-brain-teasers/numerical-methods.md)
 * [Programming](programming.md)
