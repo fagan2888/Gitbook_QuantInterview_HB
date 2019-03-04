@@ -65,12 +65,14 @@ Tree Ensembling
 * Hinge Loss
 * Kernel Trick
 
-
-
-K-nearest Label
+## K-nearest Neighbor
 
 * No Training stage
 * higher  K is, more robust the model can be
+
+
+
+## K means
 
 
 
