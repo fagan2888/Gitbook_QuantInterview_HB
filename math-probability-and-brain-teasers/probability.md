@@ -1,4 +1,28 @@
-# Probability
+## Probability
+
+## Concepts
+
+* Counting, permutation, combination
+* law of total probability, Bayes Rule
+* Discrete and Continuous random variable properties
+  * poisson process
+  * Moment Generating functions
+* Expectation, Covariance Theorems
+  * indicator variable
+  * law of total expectation
+* Calculus
+  * p.d.f, c.d.f., variance
+* Markov Process
+  * equation of absorption probability
+  * equation of absorption time
+* Stochastic Process
+  * Martingale
+    * quadratic martingale \(Sn^2 - n\)
+    * exponential martingale
+    * stopping time and Wald's equality 
+  * random walk
+
+## Questions
 
 #### Card, Coin and Dice
 
@@ -59,12 +83,25 @@
 * Birthday  line: choose optimal position in line
 * Amoeba Die out
   * recurrance
-* Gambler's Ruin Problem\*
-* fair coin toss, toss HT in sequence wins
+* Gambler's Ruin Problem\*: has n money, lose them all time/probability
+* AB fair coin toss, toss HT in sequence wins \(first 1 to be T\)
 * Basket ball game, 100 throws, prob proportional to success rate
 * Observe car in 20 min interval p, prob for observing car in 5min
 * Poisson Process expected waiting time
 * connect 100 noodles, the prob to form a circle
+
+##### Markov Chain
+
+* Dice game: A first dice 7-7 wins, B first dice sum of 12 wins. Probability?
+* Coin Game: expected tosses to see HHH or THH?
+* Color Balls\*: each time take out ball, paint first same as second, expected time to see all balls same color
+
+##### Martingale and Random Walk
+
+* drunk man walk on the 100 meter bridge \(at 17 meter position\), expected num of steps to walk down 
+* Dice game: 1,2,3 payoff, 4,5,6 continue, expected payoff
+* ticket line: 5,10 bills, no change to start with, what is the probability no extra money is needed
+* coin sequence\*: toss a fail coin, expected number of tosses to get n heads in a row? 
 
 #### Random Variables
 

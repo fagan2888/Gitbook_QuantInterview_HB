@@ -7,6 +7,8 @@
 * [Questions about You](questions-about-you.md)
 * [Behavioral Questions](second-question.md)
 * [Market Questions](market-questions.md)
+  * Macroeconomic Analysis
+  * [Quant and Systematic Market](market-questions/quant-and-systematic-market.md)
 * [Statistics and Machine Learning](statistics-and-machine-learning.md)
   * [Statistics](statistics-and-machine-learning/statistics.md)
   * [Model Evaluation](statistics-and-machine-learning/model-evaluation.md)
@@ -15,7 +17,6 @@
 * [Math, Probability and Brain-teasers](math-probability-and-brain-teasers.md)
   * [Calculus and Linear Algebra](math-probability-and-brain-teasers/calculus-and-linear-algebra.md)
   * [Probability](math-probability-and-brain-teasers/probability.md)
-  * [Stochastic Process](math-probability-and-brain-teasers/stochastic-process.md)
   * [Numerical Methods](math-probability-and-brain-teasers/numerical-methods.md)
 * [Programming](programming.md)
   * [C++](programming/c++.md)
