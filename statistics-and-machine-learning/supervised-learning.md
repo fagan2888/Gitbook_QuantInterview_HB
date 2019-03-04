@@ -38,9 +38,39 @@
   * entropy loss
   * MSE
 
-# Tree-Based Models
+# Tree-Based Model
+
+Tree
+
+* Algo
+* Advantages
+  * interaction handling
+  * insensitivity to outliers
+
+Tree Ensembling
+
+* Random Forest
+  * bagging 
+    * bagging of data 
+    * bagging of feature 
+      * rule of sum - select sqrt\(k\) features
+  * feature importance calculation
+    * out-of-bag performance
+* Advantage and Disadvantage
+  * natural parallel \(embarrassed parallel algo\)
+  * feature importance
 
 # Support Vector Machine
+
+* Hinge Loss
+* Kernel Trick
+
+
+
+K-nearest Label
+
+* No Training stage
+* higher  K is, more robust the model can be
 
 
 
