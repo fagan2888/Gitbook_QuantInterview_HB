@@ -35,19 +35,27 @@
 * Loss function derive parameter estimation
   * MLE - y is bernoulli function \(entropy loss\)
 * Gradient Descent
-  * entropy loss
+  * entropy loss \(Bernoulli MLE Loss\)
   * MSE
 
 # Tree-Based Model
 
-Tree
+### Tree
 
 * Algo
+  * ID3
+  * ID4.5
+  * CART
+    * Hyperparamters
+      * max\__depth, min\__samples\__split, min\_samples\_leaf, max\_leaf\_nodes_
+* Loss
+  * entropy
+  * Gini Index
 * Advantages
   * interaction handling
   * insensitivity to outliers
 
-Tree Ensembling
+### Tree Ensembling
 
 * Random Forest
   * bagging 
@@ -69,8 +77,6 @@ Tree Ensembling
 
 * No Training stage
 * higher  K is, more robust the model can be
-
-
 
 ## K means
 
