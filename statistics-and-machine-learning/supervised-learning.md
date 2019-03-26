@@ -47,7 +47,7 @@
   * ID4.5
   * CART
     * Hyperparamters
-      * max\__depth, min\__samples\__split, min\_samples\_leaf, max\_leaf\_nodes_
+      * max\__depth, min\_\_samples\_\_split, min\_samples\_leaf, max\_leaf\_nodes_
 * Loss
   * entropy
   * Gini Index
@@ -78,7 +78,7 @@
 * No Training stage
 * higher  K is, more robust the model can be
 
-## K means
+
 
 
 

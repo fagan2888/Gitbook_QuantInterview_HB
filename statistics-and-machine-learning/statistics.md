@@ -1,3 +1,18 @@
+### Descriptive Statistics
+
+* Univariate Statistics
+  * shape: skew, kurtosis
+  * center: mean, median, mode
+  * spread: standard deviation, entropy
+  * relative position
+* Bivariate Statistics
+  * correlation, covariance
+    * shrinkage
+    * spearman correlation
+    * chi-square statistics
+  * regression methods
+* multivariate
+
 ### Statistical Inference
 
 * Law of Large Number
@@ -7,8 +22,8 @@
   * Method of Moments
   * MLE
     * calculation: 
-      *  exponential dist MLE
-      *  binomial MLE \(variance, used in Monte Carlo\)
+      * exponential dist MLE
+      * binomial MLE \(variance, used in Monte Carlo\)
     * What is Fisher Information
       * cutting variance to half, double the sample size
   * Consistency
@@ -18,7 +33,11 @@
   * Type I error, significance \(precision\)
   * Type II error, power \(recall\)
   * how to test multiple hypothesis\(FWER vs FDR\)
-* Error
+* Statistical Testing
+  * 2 Groups
+    * t-test
+    * dep-groups t-test
+  * ANOVA
 * Bias-Variance Decomposition
 * Computational Approach
   * Permutation Test
