@@ -23,6 +23,8 @@
   * [Numerical Methods](math-probability-and-brain-teasers/numerical-methods.md)
 * [Programming](programming.md)
   * [C++](programming/c++.md)
+  * Data Structure and Algorithm
+  * [Machine Learning System Design](programming/machine-learning-system-design.md)
 * [Financial Math](financial-math.md)
 * [Interview Checklist](interview-checklist.md)
 

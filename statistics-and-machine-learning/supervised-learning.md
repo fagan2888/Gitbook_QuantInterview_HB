@@ -2,10 +2,10 @@
 
 # Regression
 
-#### Linear Regression
+### Linear Regression
 
 * Assumptions and intuition
-  * when does the assumptions not important? \(when do analyze rather than prediction\)
+  * when do the assumptions not important? \(when do analyze rather than prediction\)
     * indeed a projection from **y** to **X **vector space
   * diagnostics and treatments
     * fitted and residual plot
@@ -15,17 +15,19 @@
       * PCA \(matrix transformation\)
 * proof MLE Estimate &lt;=&gt; RSS Min Estimate
   * use p.d.f of $$\epsilon$$ on beta
-* Derive beta
+* Derive
   * xy vs yx regression \(notice whose variance get "contributed averaged"\)
-  * Single variable: min RSS = $$\sum (y_i - (\beta_1 x_i + \beta_0)$$
+  * Single variable max MLE - min RSS = $$\sum (y_i - (\beta_1 x_i + \beta_0))^2$$
   * Muti-variable $$\mathbf{w^*} = (\mathbf{X^T X})^{-1} \mathbf{X^T y} $$
 * Loss Function
   * Blue
-  * Huber Loss Function
+  * Other loss functions
+    * Absolute Loss
+    * Huber Loss Function
 * Regularization
   * Ridge, Lasso \(Scarcity\)
 
-#### Logistic Regression
+### Logistic Regression
 
 * Intuition - Why do we have it
   * different contribution of large/small data
@@ -38,7 +40,15 @@
   * entropy loss \(Bernoulli MLE Loss\)
   * MSE
 
-# Tree-Based Model
+## 
+
+# Classification
+
+* how to do multi-class calssification
+  * multiple binary classficiation
+  * softmax
+
+## Tree-Based Model
 
 ### Tree
 
@@ -47,7 +57,7 @@
   * ID4.5
   * CART
     * Hyperparamters
-      * max\__depth, min\_\_samples\_\_split, min\_samples\_leaf, max\_leaf\_nodes_
+      * max\__depth, min\_\_samples\_\_split, min\_samples\_leaf, max\_leaf\_nodes\_
 * Loss
   * entropy
   * Gini Index
@@ -68,17 +78,15 @@
   * natural parallel \(embarrassed parallel algo\)
   * feature importance
 
-# Support Vector Machine
+### Support Vector Machine
 
 * Hinge Loss
 * Kernel Trick
 
-## K-nearest Neighbor
+### K-nearest Neighbor
 
 * No Training stage
 * higher  K is, more robust the model can be
-
-
 
 
 

@@ -7,6 +7,8 @@
 * Time-Series Data
   * not use future information
   * ARIMA 
+* how to decompose bias and variance
+  * in-sample vs out-of sample error
 
 ## Confusion Matrix
 
