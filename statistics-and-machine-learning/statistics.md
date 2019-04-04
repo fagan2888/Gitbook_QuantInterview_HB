@@ -18,6 +18,8 @@
 * Law of Large Number
 * Central Limit Theorem
   * i.i.d assumption
+  * regularization condition
+  * convergence rate
 * Estimation
   * Method of Moments
   * MLE
@@ -34,10 +36,14 @@
   * Type II error, power \(recall\)
   * how to test multiple hypothesis\(FWER vs FDR\)
 * Statistical Testing
+  * 1 Group
+    * binary test, t-test
   * 2 Groups
     * t-test
     * dep-groups t-test
   * ANOVA
+  * what if p=thredhold\(0.05\)
+    * it's up to you
 * Bias-Variance Decomposition
 * Computational Approach
   * Permutation Test
