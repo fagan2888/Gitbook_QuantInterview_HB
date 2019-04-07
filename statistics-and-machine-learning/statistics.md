@@ -15,6 +15,9 @@
 
 ### Statistical Inference
 
+* Independence and Correlation
+  * dependent but zero correlation
+    * X, X^2 \(normal, Chi-square\)
 * Law of Large Number
 * Central Limit Theorem
   * i.i.d assumption
