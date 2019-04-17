@@ -1,4 +1,4 @@
-### Machine Learning Project
+### Data Science/Machine Learning Project
 
 1. Data
    1. Exploratory Data Analysis
@@ -19,8 +19,6 @@
   * Batch Learning vs Online Learning
   * Instance Based Learning vs Model Based Learning
   * Supervised, Unsupervised, Semi-supervised, reinforcement learning
-
-
 
 
 
