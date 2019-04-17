@@ -3,6 +3,7 @@
 1. Data
    1. Exploratory Data Analysis
    2. Data Wrangling, Data Cleaning
+      1. Missing Value handling and impact analysis
 2. Feature Matrix
    1. Feature Engineering
    2. Feature Selection
