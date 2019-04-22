@@ -3,9 +3,9 @@
 * [Introduction](README.md)
 * [Overview](overview.md)
 * [Networking](first-question.md)
-* [Questions to Ask](questions-to-ask.md)
 * [Questions about You](questions-about-you.md)
 * [Behavioral Questions](second-question.md)
+* [Questions to Ask](questions-to-ask.md)
 * [Market Questions](market-questions.md)
   * Macroeconomic Analysis
   * [Quant and Systematic Market](market-questions/quant-and-systematic-market.md)

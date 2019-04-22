@@ -1,3 +1,15 @@
+## Basic Principles
+
+* show excitement about the company
+* show knowledge about the company/depart/position
+* show your work ethic/cultural fit
+* review your strong/weak points
+  * mention strong points weren't showed
+  * review the weakpoints
+    * I did not answer XX question, because ...
+* find connections with the interviewer
+* play to interviewer's style
+
 ### About the Person
 
 * what did you prior to this/school did you go
