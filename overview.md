@@ -53,21 +53,37 @@
 ## Checklist
 
 * Deliberate practice
-* 4 Steps to answer a quantitative question
-
-  * clarification: purpose, boundary condition, edge cases
-  * possible solution: list out possible solutions
+  * 4 Steps to answer a quantitative question
+    * clarification: purpose, boundary condition, edge cases
+    * possible solution: list out possible solutions
     * compare \(time and space\) complexity/calcuations
     * optimal solution
-  * Coding/Calculate/Present
+* Coding/Calculate/Present
   * Test Cases/Examples/Further elaborationLong Term Preparation
+  * Target List
+* Networking
+* Productionize yourself
+* interest
+* knowledge
+* aptitude
 
-    * Target List
-    * Networking
-    * Productionalization of yourself
-      * interest
-      * knowledge
-      * aptitude
+## Interview Processes 
+
+* Technical Interview
+  * Coding Pad
+    * Algo
+    * Exploratory Data Analysis
+  * Take home project
+    * Data Analysis/Hacking Project
+      * Common toolbox preparation
+    * Presentation
+* Behavioral Questions
+  * Situational Questions
+  * Talk about project/working experience
+* Special Situation
+  * Stress Interview
+    * Time limit
+    * Sudden change of plan/new information
 
 # Extension - Career Path to be a Quant
 
