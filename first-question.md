@@ -1,11 +1,9 @@
-### Principles 
+### Principles
 
 * Know where you want to be in Company X and Why
 * Create a perception that you have already done the job that you are pursuing
 * Make it easy for people to help you
 * Own the process
-
-### 
 
 ### Sample Networking Scripts
 

@@ -67,7 +67,7 @@
 * knowledge
 * aptitude
 
-## Interview Processes 
+## Interview Processes
 
 * Technical Interview
   * Coding Pad
@@ -84,6 +84,13 @@
   * Stress Interview
     * Time limit
     * Sudden change of plan/new information
+* Case Study/Projects
+  * define, rephrase
+  * data
+  * model
+  * evaluation
+  * business value and action
+  * summary and feedback
 
 # Extension - Career Path to be a Quant
 
