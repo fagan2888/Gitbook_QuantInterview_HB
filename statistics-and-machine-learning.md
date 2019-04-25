@@ -14,6 +14,21 @@
 5. Business Value
    1. Business Case Analysis
 
+#### Take-home/Onsite Data Challenge
+
+Often use Jupyter Notebook or R-Markdown. From very open-ended to very detailed instructions\(accuracy score expected\)
+
+* Data exploration
+  * occasional: deal with big data - either drop part of data or use more advanced platforms
+  * descriptive statistics
+  * feature matrix
+* Data-preprossing
+  * dealing with missing values, outliers
+* Modeling
+  * not always necessary
+* Summary Report/Presentation
+  * most important part
+
 ### Machine Learning Overview
 
 * Set-up
