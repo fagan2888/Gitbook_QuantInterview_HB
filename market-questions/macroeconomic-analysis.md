@@ -13,5 +13,11 @@ Rates Market
 * May 13: Taper Tantrum
 * Apr 15: Bund Tantrum
 
+FX Market
+
+* 98: LTCM
+* Oct 10: EU Debt Crsis
+* 14/15: USD Strengthen
+
 
 
