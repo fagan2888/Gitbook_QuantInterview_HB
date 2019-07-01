@@ -9,6 +9,7 @@
 * [Market Questions](market-questions.md)
   * [Macroeconomic Analysis](market-questions/macroeconomic-analysis.md)
   * [Quant and Systematic Market](market-questions/quant-and-systematic-market.md)
+  * [Trading Ideas/Market Views](market-questions/trading-ideasmarket-views.md)
 * [Statistics and Machine Learning](statistics-and-machine-learning.md)
   * [Statistics](statistics-and-machine-learning/statistics.md)
   * [Exploratory Data Analysis ](statistics-and-machine-learning/exploratory-data-analysis.md)
