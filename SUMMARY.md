@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Overview](overview.md)
 * [Networking](first-question.md)
+* [Resume](resume.md)
 * [Behavioral Questions](second-question.md)
   * [Questions about You](second-question/questions-about-you.md)
   * [Questions to Ask](second-question/questions-to-ask.md)
@@ -27,5 +28,5 @@
   * Data Structure and Algorithm
   * [Machine Learning System Design](programming/machine-learning-system-design.md)
 * [Financial Math](financial-math.md)
-* [Interview Checklist](interview-checklist.md)
+* Resume
 
