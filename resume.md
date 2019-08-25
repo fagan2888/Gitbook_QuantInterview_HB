@@ -44,6 +44,8 @@
     * target volatility, holding period, potential for scalability
 * Data Science
   * Statistical analysis, statistical modeling
+    * missing data imputation
+    * data cleasing
   * Platform
   * pipeline
   * Visualize, data visualization, dashboard
@@ -52,8 +54,9 @@
 * Engineering
   * portfolio construction and implementation 
   * flexible and scalable, high-performance
+    * accuracy, usability, availability
   * rebalancing platform 
-  * High-performance optimization engine and supporting algorithms and tools
+  * optimization engine and supporting algorithms and tools
   * APIs 
   * cloud computing, parallel computing
   * microservices
