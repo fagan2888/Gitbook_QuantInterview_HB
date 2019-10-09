@@ -52,6 +52,7 @@ Equity Benchmarks/Tradables
   * SLV
 
 * Derivatives
+
   * UVXY
   * 
 
@@ -95,6 +96,7 @@ Macro-economic
   \*
 
 * Correlation cross-markets \(eg. Equity vs Bond\)
+
   * equity bond pos
     * DCF Model
   * equity bond neg
