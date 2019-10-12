@@ -36,5 +36,16 @@ Often use Jupyter Notebook or R-Markdown. From very open-ended to very detailed 
   * Instance Based Learning vs Model Based Learning
   * Supervised, Unsupervised, Semi-supervised, reinforcement learning
 
+Implement K-Means
 
+* Implement K-nearest-neighbors
+  * what if you have 1 million users
+    * local-sensitive hashing
+
+* How to provide recommendations in real-time?
+
+* Hot wo define user-item scores
+  * user ""like" data is relatively hard to get
+
+Machine Learning System with Big Data
 

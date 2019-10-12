@@ -23,10 +23,6 @@
   * [Calculus and Linear Algebra](math-probability-and-brain-teasers/calculus-and-linear-algebra.md)
   * [Probability](math-probability-and-brain-teasers/probability.md)
   * [Numerical Methods](math-probability-and-brain-teasers/numerical-methods.md)
-* [Programming](programming.md)
-  * [C++](programming/c++.md)
-  * Data Structure and Algorithm
-  * [Machine Learning System Design](programming/machine-learning-system-design.md)
 * [Financial Math](financial-math.md)
 * Resume
 
