@@ -1,32 +1,39 @@
-#### 
+# Supervised Learning Questions
 
-# Regression
+## Model Training and General Questions
+
+1. Bias Variance Decomposition
+
+## Regression
 
 ### Linear Regression
 
-* Assumptions and intuition
-  * when do the assumptions not important? \(when do analyze rather than prediction\)
-    * indeed a projection from **y** to **X **vector space
-  * diagnostics and treatments
-    * fitted and residual plot
-    * heteroskedasticity
-    * co-linearity 
-      * regularization via Lasso
-      * PCA \(matrix transformation\)
-* proof MLE Estimate &lt;=&gt; RSS Min Estimate
-  * use p.d.f of $$\epsilon$$ on beta
-* Derive
-  * xy vs yx regression \(notice whose variance get "contributed averaged"\)
-  * Single variable max MLE - min RSS = $$\sum (y_i - (\beta_1 x_i + \beta_0))^2$$
-  * Muti-variable $$\mathbf{w^*} = (\mathbf{X^T X})^{-1} \mathbf{X^T y} $$
-* Loss Function
-  * Blue
-  * Other loss functions
-    * Absolute Loss
-    * Huber Loss Function
-* Regularization
-  * Ridge, Lasso \(Scarcity\)
-
+1. Assumptions and intuition
+   * when do the assumptions not important? \(when do analyze rather than prediction\)
+     * indeed a projection from **y** to **X **vector space
+   * diagnostics and treatments
+     * fitted and residual plot
+     * heteroskedasticity
+     * co-linearity 
+       * regularization via Lasso
+       * PCA \(matrix transformation\)
+2. MLE and OLS
+   1. compare difference
+   2. proof MLE Estimate &lt;=&gt; RSS Min Estimate
+   3. use p.d.f of $$\epsilon$$ on beta
+3. Derive
+   * xy vs yx regression \(notice whose variance get "contributed averaged"\)
+   * Single variable max MLE - min RSS = $$\sum (y_i - (\beta_1 x_i + \beta_0))^2$$
+   * Muti-variable $$\mathbf{w^*} = (\mathbf{X^T X})^{-1} \mathbf{X^T y} $$
+4. Loss Function
+   * proof: min Loss is solution for linear problem \(MLE/OLS\)
+   * Blue
+   * Other loss functions
+     * Absolute Loss
+     * Huber Loss Function
+5. Regularization
+   * Ridge, Lasso \(Scarcity\)
+6. 
 ### Logistic Regression
 
 * Intuition - Why do we have it
@@ -38,15 +45,18 @@
   * MLE - y is bernoulli function \(entropy loss\)
 * Gradient Descent
   * entropy loss \(Bernoulli MLE Loss\)
-  * MSE
-
-## 
+  * Mean Square Loss
 
 # Classification
 
-* how to do multi-class calssification
-  * multiple binary classficiation
-  * softmax
+1. Confusion Matrix and Model Evaluation
+   * Precision, Recall
+   * Accuracy
+   * ROC Curve
+   * 
+2. how to do multi-class calssification
+   * multiple binary classficiation
+   * softmax
 
 ## Tree-Based Model
 

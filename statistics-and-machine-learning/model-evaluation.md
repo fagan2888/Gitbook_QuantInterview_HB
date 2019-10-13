@@ -1,4 +1,10 @@
-## Cross-Validation
+# Model Training and Evaluation
+
+## Model Training
+
+#### Optimization
+
+### Cross-Validation
 
 * hold-one out vs k-fold
   * information leaking when use to validate parameters
@@ -9,6 +15,8 @@
   * ARIMA 
 * how to decompose bias and variance
   * in-sample vs out-of sample error
+
+## Model Evaluation
 
 ## Confusion Matrix
 
