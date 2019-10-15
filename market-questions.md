@@ -16,7 +16,7 @@
 
 ### Key benchmark levels
 
-Equity Benchmarks/Tradables
+#### Equity
 
 * VIX, VXX
 * DJI
@@ -35,26 +35,27 @@ Equity Benchmarks/Tradables
 * FXI \(Russia\)
 * RSX \(China\)
 
-* FX
+#### FX
 
-  * USD
-  * FXE
-  * FXY
+* USD
+* FXE
+* FXY
 
-* Bond
+#### Bond
 
-  * TLT
-  * HYG
+* 1-Yr, 10-Yr, 20-Yr Treasury Rates
+* TLT
+* HYG
 
-* Commod
+#### Commod
 
-  * **GLD**
-  * SLV
+* **GLD**
+* SLV
 
-* Derivatives
+#### Derivatives/Hedge Funds
 
-  * UVXY
-  * 
+* UVXY
+* HFRX
 
 ### Market Analysis
 
