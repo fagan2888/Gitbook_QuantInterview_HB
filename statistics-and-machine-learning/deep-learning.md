@@ -22,19 +22,53 @@
 ## Convolutional Neural Network
 
 1. Convolution and Pooling
-   1. effect of convolution \(edge detection\)
-   2. effect of pooling
+   1. what is convolution and effect of convolution \(edge detection\)
+
+   1. what is pooling and the effect of pooling
       1. parameter sharing, feature sparsity 
       2. translation invariance
+      3. how to back-propagate on pooling layer
 2. Modern CNN
    1. LeNet \(LeNet-5\)
+   2. AlexNet\(2012\)
+   3. VGG\(2015\)
+   4. Inception V3\(2015\)
+      1. inception block
+         1. 1x1 convolutions
+            1. reduce the number of channels and not hurting the quality of the model
+            2. model Gaussian blur filter
+            3. filter decomposition
+               1. nxn replaced with 1xn and nx1
+   5. ResNet \(2015\)
+      1. residual connections
 3. CNN Training
    1. weight initilization
+      1. criterion
+         1. E\(sum\(x_i w_\_i\)\) = 0
+         2. Var\(sum\(xiwi\)\) = 1
+      2. Types
+         1. Xavier initialization
+         2. He Initilization
    2. activation function
       1. Vanishing Gradient and Exploding Gradient
          1. sigmoid
          2. tanh
          3. ReLU
+         4. Leaky ReLU
+      2. evaluate activation functions
+         1. gradient fast to compute
+         2. gradient vanishing/exploding
+         3. faster convergence
+         4. zero-centered
+         5. dying neuron \(dying ReLU\)
+      3. Batch Normalization
+         1. estimate mu and sigma \(exponential smoothing\)
+         2. normalize neuron output before activation
+      4. Regularization
+         1. dropout
+            1. training a neuron present with probability p
+            2. testing always present
+         2. data augmentation
 
 
 

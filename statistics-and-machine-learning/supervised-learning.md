@@ -33,19 +33,21 @@
      * Huber Loss Function
 5. Regularization
    * Ridge, Lasso \(Scarcity\)
-6. 
+
 ### Logistic Regression
 
-* Intuition - Why do we have it
-  * different contribution of large/small data
-    * exponential family and penalize
-  * assumption - Bernoulli distribution
-    * odds, log odds
-* Loss function derive parameter estimation
-  * MLE - y is bernoulli function \(entropy loss\)
-* Gradient Descent
-  * entropy loss \(Bernoulli MLE Loss\)
-  * Mean Square Loss
+1. Intuition - Why do we have it
+
+   * different contribution of large/small data
+     * exponential family and penalize
+   * assumption - Bernoulli distribution
+     * odds, log odds
+
+2. Loss function derive parameter estimation
+   * MLE - y is bernoulli function \(entropy loss\)
+3. implement Gradient Descent
+   * entropy loss \(Bernoulli MLE Loss\)
+   * Mean Square Loss
 
 # Classification
 
