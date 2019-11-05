@@ -23,6 +23,7 @@
   * [Calculus and Linear Algebra](math-probability-and-brain-teasers/calculus-and-linear-algebra.md)
   * [Probability](math-probability-and-brain-teasers/probability.md)
   * [Numerical Methods](math-probability-and-brain-teasers/numerical-methods.md)
+  * [Brain Teasers](math-probability-and-brain-teasers/brain-teasers.md)
 * [Financial Math](financial-math.md)
 * Resume
 
