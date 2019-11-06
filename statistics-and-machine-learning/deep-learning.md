@@ -60,12 +60,11 @@ gradient checking
 1. Convolution and Pooling  
    1. what is convolution and effect of convolution \(edge detection\)
 
-   1. what is pooling and the effect of pooling
-      1. parameter sharing, feature sparsity 
-      2. translation invariance
-      3. how to back-propagate on pooling layer
-
-2. Modern CNN  
+2. what is pooling and the effect of pooling
+   1. parameter sharing, feature sparsity 
+   2. translation invariance
+   3. how to back-propagate on pooling layer
+3. Modern CNN  
    1. LeNet \(LeNet-5\)  
    2. AlexNet\(2012\)  
    3. VGG\(2015\)  
