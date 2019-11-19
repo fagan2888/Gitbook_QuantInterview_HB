@@ -1,5 +1,7 @@
 ## Probability
 
+---
+
 ## Concepts
 
 * Counting, permutation, combination
@@ -21,6 +23,8 @@
     * exponential martingale
     * stopping time and Wald's equality 
   * random walk
+
+---
 
 ## Questions
 
@@ -45,9 +49,10 @@
 * probability \(a+10b\)^3 last digit is 1? 
   * binomial theorem 
 
-#### Events
+#### Events and Game
 
 * put n points in a circle, the probability they all end up in a same semi-circle
+* probability of triangle: stick to form a triangle
 * Chess tournament: what's the probability the strongest and second strongest meet in final? 
 * Bernoulli's Letter Problem
 * n people in the room, what's the probability 2 has same birthday? how many people in the room to make the prob of two same birthday &gt; 1/2
@@ -62,8 +67,7 @@
   * first did not die, should you spin the barrel
   * put in two consecutive positions, first did not die
 * meeting prob: arrive in 1h, meet in 5min interval
-* probability of triangle: stick to form a triangle
-
+* 
 #### Expectation, Variance, Covariance, Order Statistics
 
 * sum of n random variables c.d.f \* 
