@@ -28,6 +28,11 @@
 
 ## Questions
 
+#### Concepts
+
+* example of dependent variables with zero covariance
+  * Z - N\(0,1\) U +1 with 0.5 prob, -1 with 0.5 prob, X = UZ and Z are dependent
+
 #### Card, Coin and Dice
 
 * A \(n+1\) coins, B n coins, probability that A has more heads than B?
@@ -53,6 +58,8 @@
 
 * put n points in a circle, the probability they all end up in a same semi-circle
 * probability of triangle: stick to form a triangle
+  * **\(\*\) what is the distribution of longest piece?**
+    * geometric - rule of Lazy Statistician 
 * Chess tournament: what's the probability the strongest and second strongest meet in final? 
 * Bernoulli's Letter Problem
 * n people in the room, what's the probability 2 has same birthday? how many people in the room to make the prob of two same birthday &gt; 1/2
@@ -67,10 +74,11 @@
   * first did not die, should you spin the barrel
   * put in two consecutive positions, first did not die
 * meeting prob: arrive in 1h, meet in 5min interval
-* 
+
 #### Expectation, Variance, Covariance, Order Statistics
 
-* sum of n random variables c.d.f \* 
+* sum of n random variables c.d.f \*
+
 * coupon collections N types\*
   * expected boxes to be opend
   * open n box, expected number of coupon types
