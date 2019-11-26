@@ -96,11 +96,13 @@
 * joint default probability of two random variables
 
 * x, y \(or x_1, ..., xn\)_ follow certain distribution, the p.d.f of max\(xi\), min\(xi\) and their expectation
+
 * correlation of max and min of x1, x2 follow distribution 
   * need to find f\(yz\) using graph
 * 500 random ants expected fall down time
 
 * expected number of tosses of an unfair coin to get two heads in a row
+
 * roll a dice 3 times, can stop at any point, pay the number on dice, what's the strategy
 
 #### Distributions
@@ -113,6 +115,10 @@
 
 * stock prices either increase by 0.2% or decrease by 0.1% with equal probability, what is the probability after 100 days it goes up twice
   * use Y as log return 
+
+##### Moment Generating Functions
+
+* X is Poisson\(lambda\)\(number of events in a interval\) y is binomial\(X,p\) \(given x, p is the probability it will be a certain type\), distribution of y \(also Poisson\)
 
 #### Process
 
@@ -144,8 +150,6 @@
 * ticket line: 5,10 bills, no change to start with, what is the probability no extra money is needed
 * coin sequence\*: toss a fail coin, expected number of tosses to get n heads in a row? 
 
-
-
 ---
 
 ### Probability Algo
@@ -165,8 +169,10 @@
 * **rejection method**
 
 * How to shuffle n numbers with every sequence equal probability
+
   * by sorting + random number sequence : O\(nlogn\)
   * Knuth Shuffle: sample without putting back \(each 1/n! probability\)
+
 * read data in sequence, how to ensure each data has equal probability to be sampled
   * pick the first, change with 1/2 probability if there is a second ... pick n th and keep with probability n/\(n+1\), change with 1/\(n+1\)
 
