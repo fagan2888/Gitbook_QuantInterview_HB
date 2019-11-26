@@ -32,19 +32,20 @@
 
 ---
 
-## Questions
+## Probability Questions
 
-#### Concepts
+### Concepts
 
 * example of dependent variables with zero covariance
   * Z - N\(0,1\) U +1 with 0.5 prob, -1 with 0.5 prob, X = UZ and Z are dependent
 
 #### Card, Coin and Dice
 
-* A \(n+1\) coins, B n coins, probability that A has more heads than B?
+* Coin Toss Game: A \(n+1\) coins, B n coins, probability that A has more heads than B?
+  * symmetry
 * 1000 coins one unfair, 10 times head toss, prob to get unfair coin
 * generate fair prob by unfair coin
-* A and B pick up a card and compare, what's the probability A wins \(in tie, B wins\)
+* Card Game: A and B pick up a card and compare, what's the probability A wins \(in tie, B wins\)
 * probability of in texas-hold'em
   * four of a kind: 0.241%
   * full house: 1.463%
@@ -63,6 +64,7 @@
 #### Events and Game
 
 * put n points in a circle, the probability they all end up in a same semi-circle
+  * inclusion/exclusion/mutual exclusive
 * probability of triangle: stick to form a triangle
   * **\(\*\) what is the distribution of longest piece?**
     * geometric - rule of Lazy Statistician 
@@ -92,30 +94,29 @@
     * indicator variable
 
 * joint default probability of two random variables
+
 * x, y \(or x_1, ..., xn\)_ follow certain distribution, the p.d.f of max\(xi\), min\(xi\) and their expectation
 * correlation of max and min of x1, x2 follow distribution 
   * need to find f\(yz\) using graph
 * 500 random ants expected fall down time
 
-
-
 * expected number of tosses of an unfair coin to get two heads in a row
 * roll a dice 3 times, can stop at any point, pay the number on dice, what's the strategy
 
+#### Distributions
 
-
-Bayes
+##### Bayes
 
 * coin-making machine make coins with head prob p, p from uniform\(0,1\), whats the conditional distribution of the probability of head if you toss 1000 times and see 750 heads
 
-Central Limit Theorem / Order Statistics
+##### Central Limit Theorem
 
 * stock prices either increase by 0.2% or decrease by 0.1% with equal probability, what is the probability after 100 days it goes up twice
   * use Y as log return 
 
 #### Process
 
-* 100 passengers, first 1 drunk. others will randomly pick one is seat is taken, prob your seat is taken
+* Drunk Passenger: 100 passengers, first 1 drunk. others will randomly pick one is seat is taken, prob your seat is taken
 * Birthday  line: choose optimal position in line
 * Amoeba Die out
   * recurrance
@@ -125,6 +126,10 @@ Central Limit Theorem / Order Statistics
 * Observe car in 20 min interval p, prob for observing car in 5min
 * Poisson Process expected waiting time
 * connect 100 noodles, the prob to form a circle
+
+---
+
+## Stochastic Process
 
 ##### Markov Chain
 
@@ -139,6 +144,12 @@ Central Limit Theorem / Order Statistics
 * ticket line: 5,10 bills, no change to start with, what is the probability no extra money is needed
 * coin sequence\*: toss a fail coin, expected number of tosses to get n heads in a row? 
 
+
+
+---
+
+### Probability Algo
+
 #### Random Variables
 
 * x,y and x, z correlation 0.8, whats the max/min correlation for z, y? 
@@ -152,8 +163,6 @@ Central Limit Theorem / Order Statistics
   * inverse transformation method
 
 * **rejection method**
-
-### Probability Algo
 
 * How to shuffle n numbers with every sequence equal probability
   * by sorting + random number sequence : O\(nlogn\)
