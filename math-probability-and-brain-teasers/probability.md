@@ -60,6 +60,7 @@
 * 11 screwy priates to lock a case, only above 5 can open 
 * probability \(a+10b\)^3 last digit is 1? 
   * binomial theorem 
+* letters in wrong evenlope\(Bernoulli's Letter Problem\)
 
 #### Events and Game
 
@@ -69,7 +70,6 @@
   * **\(\*\) what is the distribution of longest piece?**
     * geometric - rule of Lazy Statistician 
 * Chess tournament: what's the probability the strongest and second strongest meet in final? 
-* Bernoulli's Letter Problem
 * n people in the room, what's the probability 2 has same birthday? how many people in the room to make the prob of two same birthday &gt; 1/2
 * All girl world, conditional boy prob
 * Dart game: 3rd dart farther than the first
@@ -97,8 +97,10 @@
 
 * x, y \(or x_1, ..., xn\)_ follow certain distribution, the p.d.f of max\(xi\), min\(xi\) and their expectation
 
-* correlation of max and min of x1, x2 follow distribution 
+* correlation of max and min of x1, x2 follow distribution
+
   * need to find f\(yz\) using graph
+
 * 500 random ants expected fall down time
 
 * expected number of tosses of an unfair coin to get two heads in a row
@@ -174,7 +176,13 @@
   * Knuth Shuffle: sample without putting back \(each 1/n! probability\)
 
 * read data in sequence, how to ensure each data has equal probability to be sampled
+
   * pick the first, change with 1/2 probability if there is a second ... pick n th and keep with probability n/\(n+1\), change with 1/\(n+1\)
+
+Statistics
+
+* give Z-U\(0,1\) how to draw N\(0,1\) variable
+* give Z-N\(0,1\) how to draw multi-variate \(N\(mu, sigma\)\) variable
 
 
 
