@@ -60,5 +60,27 @@
 * Use Random\(5\) to generate Random\(25\) / Random\(21\) \(use 5 \* random\(5\) + random\(5\)\)
   * two-dimensional matrix + sample with replacement
 
+### Time Series Analysis
+
+Steps
+
+1. Plot the time series
+2. Transform to stationary pcoress
+   1. Box-Cox \(log\) transformation
+   2. trend, seasonality, sharp changes, outliers
+3. Fit the model
+4. Diagnostic checks
+5. Generate forcasts
+6. Invert transformation to transform forecast back to original series
+
+Derive
+
+* mean, autocovariance of
+
+
+
+* AR\(1\)
+* MA\(1\)
+* 
 
 
