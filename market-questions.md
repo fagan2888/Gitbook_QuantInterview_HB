@@ -1,18 +1,49 @@
 # General Market Questions
 
-#### Present a Trading Idea
+### Market Analysis Tools and Templates
+
+#### Present a Trading Idea/Explain Market Behavior
 
 1. Conclusion
    1. direction, horizon
 2. Analysis
    1. what phonomenon
-   2. what data 
-      1. from model/consensus
+      1. metrics
+         1. Performance Metrics
+            1. absolute: return/gain, risk, Sharpe, P/E
+            2. horizontal:
+               *  vs. other sector/markets/countries
+               * distribution
+            3. vertical: historical percentile
+   2. explain the phonomenon and make predictions
+      1. what data
+      2. driver
+         1. fundamental
+            * trade and company tax
+         2. macroeconomical
+            * capital flow
+            * monetary policy and yield curve
+         3. behavioral
+            * trading volume, etc
+         4. historical similar events
+      3. from model/consensus
    3. trade horizon analysis
 3. Otherside
    1. risk
    2. sensitivity analysis
    3. risk control/hedging strategies
+
+---
+
+### Common Market Knowledge
+
+* Fed-meeting \(FOMC\) times and global central bank meeting time
+* Economic Data Calendar
+  * GDP related
+  * Non-farm payroll 
+  * Employement
+
+---
 
 ### Key benchmark levels
 

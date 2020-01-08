@@ -25,5 +25,4 @@
   * [Numerical Methods](math-probability-and-brain-teasers/numerical-methods.md)
   * [Brain Teasers](math-probability-and-brain-teasers/brain-teasers.md)
 * [Financial Math](financial-math.md)
-* Resume
 

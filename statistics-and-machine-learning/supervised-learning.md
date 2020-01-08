@@ -6,6 +6,8 @@
 
 ## Regression
 
+---
+
 ### Linear Regression
 
 1. Assumptions and intuition
@@ -34,6 +36,8 @@
 5. Regularization
    * Ridge, Lasso \(Scarcity\)
 
+---
+
 ### Logistic Regression
 
 1. Intuition - Why do we have it
@@ -44,7 +48,9 @@
      * odds, log odds
 
 2. Loss function derive parameter estimation
+
    * MLE - y is bernoulli function \(entropy loss\)
+
 3. implement Gradient Descent
    * entropy loss \(Bernoulli MLE Loss\)
    * Mean Square Loss
