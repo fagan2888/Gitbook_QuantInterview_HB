@@ -11,7 +11,7 @@
     * number of events: Poisson\(lambda t\)
     * time between events: exponential\( lambda\)
     * waiting time for k events: Gamma\(k, lambda\)
-      * sum of exponential distributions\)
+      * sum of exponential distributions
   * [Moment Generating functions](https://en.wikipedia.org/wiki/Moment-generating_function)
 * Expectation, Covariance Theorems
   * indicator variable
@@ -85,26 +85,26 @@
 
 #### Expectation, Variance, Covariance, Order Statistics
 
-* sum of n random variables c.d.f \*
-
-* coupon collections N types\*
-
+* sum of n random variables c.d.f **\(\*\)**
+  * eg. N i.i.d uniform\(0,1\) random variables sum that &lt;= 1 
+    * use conditional probability $$P(S_{n+1} \leq 1 = \int_0^1 f(X_{n+1}) P(S_n < 1- X_{n+1}) dX_{n+1}$$ and mathematical induction
+* coupon collections of N types\(\*\)
   * expected boxes to be opend
-  * open n box, expected number of coupon types
-    * indicator variable
-
-* joint default probability of two random variables
-
+    * process of geometric distributions
+  * open n box, expected number of coupon types\(\*\)
+  * indicator variable I to indicate type I is there
+    * $$E(X) = E(\sum I_i)$$
+* joint probability of two random variables
+  * eg. two bonds default, range of probability and correlation\(\*\)
+    * for correlation use, indicator variable
+      * $$P(A \cap B) = E(I_A) + E(I_B) - E(I_A I_B) = E(I_A) + E(I_B) - (E(I_AI_B) - cov(I_AI_B))$$
 * x, y \(or x_1, ..., xn\)_ follow certain distribution, the p.d.f of max\(xi\), min\(xi\) and their expectation
-
-* correlation of max and min of x1, x2 follow distribution
-
-  * need to find f\(yz\) using graph
-
+  * eg. i.i.d case - use c.d.f
+* correlation of max and min of x1, x2 follow distribution**\(\*\)**
+  * calculate E\(YZ\), E\(Y\), E\(Z\), E\(Y^2\), E\(Z^2\) separately 
+  * need to find F\(yz\) using graph
 * 500 random ants expected fall down time
-
 * expected number of tosses of an unfair coin to get two heads in a row
-
 * roll a dice 3 times, can stop at any point, pay the number on dice, what's the strategy
 
 #### Distributions

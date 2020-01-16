@@ -16,7 +16,7 @@
 ##### Pigeon Hole Principle
 
 1. 25 people, number of handshakes
-2. 
+
 #### Information Theory
 
 1. 3 mislabelled bags orange and apple
