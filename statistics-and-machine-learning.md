@@ -1,7 +1,31 @@
-### Data Science/Machine Learning Project
+# Machine Learning Overview Questions
+
+* Machine Learning 
+  * Batch Learning vs Online Learning
+  * Instance Based Learning vs Model Based Learning
+  * Supervised, Unsupervised, Semi-supervised, reinforcement learning
+* Machine Learning Algorithms
+  * Algorithm
+  * Model Training
+  * Model Selection
+* Machine Learning Implementation
+  * 1-million users to train K-means
+    * local sensitive hashing
+  * provide recommendations in real-time
+* Data Analysis and Metrics
+  * define user-item scores when user "like" data is hard to get
+
+---
+
+# Data Science/Machine Learning Project
+
+For take-home exercise, often use Jupyter Notebook or R-Markdown. From very open-ended to very detailed instructions\(accuracy score expected\)
 
 1. Data
    1. Exploratory Data Analysis
+      1. occasionally: deal with big data
+         1. either drop part of the data or use more advanced \(parallel\) platforms
+      2. summarize descriptive analysis
    2. Data Wrangling, Data Cleaning
       1. Missing Value handling and impact analysis
 2. Feature Matrix
@@ -11,41 +35,9 @@
 4. Evaluation
    1. Model Evaluation and Selection\(Offline\)
    2. A/B Testing\(Online\)
-5. Business Value
+5. Business Value/Summary
    1. Business Case Analysis
+   2. The most important part
 
-#### Take-home/Onsite Data Challenge
 
-Often use Jupyter Notebook or R-Markdown. From very open-ended to very detailed instructions\(accuracy score expected\)
-
-* Data exploration
-  * occasional: deal with big data - either drop part of data or use more advanced platforms
-  * descriptive statistics
-  * feature matrix
-* Data-preprossing
-  * dealing with missing values, outliers
-* Modeling
-  * not always necessary
-* Summary Report/Presentation
-  * most important part
-
-### Machine Learning Overview
-
-* Set-up
-  * Batch Learning vs Online Learning
-  * Instance Based Learning vs Model Based Learning
-  * Supervised, Unsupervised, Semi-supervised, reinforcement learning
-
-Implement K-Means
-
-* Implement K-nearest-neighbors
-  * what if you have 1 million users
-    * local-sensitive hashing
-
-* How to provide recommendations in real-time?
-
-* Hot wo define user-item scores
-  * user ""like" data is relatively hard to get
-
-Machine Learning System with Big Data
 

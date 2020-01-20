@@ -7,6 +7,20 @@
 * Counting, Permutation, Combination
 * Law of total probability, Bayes Rule
 * Discrete and Continuous random variable properties
+  * Discrete Distributions
+    * uniform\(discrete\)
+    * [Binomial](https://en.wikipedia.org/wiki/Binomial_distribution)
+    * [Poisson](https://en.wikipedia.org/wiki/Poisson_distribution)
+    * Geometric
+    * [Negative Binomial](https://en.wikipedia.org/wiki/Negative_binomial_distribution)
+      * Pascal Distribution
+  * Continuous Distributions
+    * uniform
+    * Normal
+    * Exponential
+    * Gamma
+    * Beta
+    * Chi-square
   * [Poisson Process](https://en.wikipedia.org/wiki/Poisson_point_process)
     * number of events: Poisson\(lambda t\)
     * time between events: exponential\( lambda\)
@@ -108,6 +122,15 @@
 * roll a dice 3 times, can stop at any point, pay the number on dice, what's the strategy
 
 #### Distributions
+
+* calculate the mean and variance of
+  * geometric distribution 
+  * binomial distribution
+* explain the intuitions behind
+  * normal distribution
+  * gamma distribution
+  * beta distribution
+  * chi-square distribution
 
 ##### Bayes
 

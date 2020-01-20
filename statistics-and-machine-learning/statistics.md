@@ -3,15 +3,18 @@
 ### Descriptive Statistics
 
 * Univariate Statistics
-  * shape: skew, kurtosis
+  * shape: variance, [skewness](https://en.wikipedia.org/wiki/Skewness), [kurtosis](https://en.wikipedia.org/wiki/Kurtosis)
   * center: mean, median, mode
-  * spread: standard deviation, entropy
+  * spread: standard deviation, [entropy](https://en.wikipedia.org/wiki/Entropy_%28information_theory%29)
   * relative position
 * Bivariate Statistics
   * correlation, covariance
     * shrinkage
-    * spearman correlation
-    * chi-square statistics
+    * [spearman correlation](https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient)
+    * [chi-square statistics](https://en.wikipedia.org/wiki/Chi-squared_test)
+    * limits of correlation/covariance
+      * measures linear relationship
+      * dependent variables not correlated
   * regression methods
 * multivariate
 
@@ -22,7 +25,7 @@
     * X, X^2 \(normal, Chi-square\)
 * Law of Large Number
 * Central Limit Theorem
-  * i.i.d assumption
+  * i.i.d. assumption
   * regularization condition
   * convergence rate
 * Estimation
@@ -76,8 +79,6 @@ Steps
 Derive
 
 * mean, autocovariance of
-
-
 
 * AR\(1\)
 * MA\(1\)
