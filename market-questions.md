@@ -12,7 +12,7 @@
          1. Performance Metrics
             1. absolute: return/gain, risk, Sharpe, P/E
             2. horizontal:
-               *  vs. other sector/markets/countries
+               * vs. other sector/markets/countries
                * distribution
             3. vertical: historical percentile
    2. explain the phonomenon and make predictions
@@ -117,71 +117,7 @@ Tell the story
 
 # Advanced
 
-Macro-economic
+### 
 
-* Business Cycle
-
-  * productivity \(culture, ecosystem, politics, technology\) + Long-term and short-term debt cycle from Ray Dailo
-  * 
-
-* Discrepancies between fundamental data and market outlook  
-  \*
-
-* Correlation cross-markets \(eg. Equity vs Bond\)
-
-  * equity bond pos
-    * DCF Model
-  * equity bond neg
-    * US Gov bond counter-cyclical \(performs good during recessions\)
-  * no clear historical conclusion - not static
-    * Multi-factor Model\(Baele, 2010\)macro economic environment, fundamental factors, liquidity proxies \(play an very important role\)
-    * equity risk premium not static
-    * depends on shock from which market
-
-### Performance Analysis
-
-Year 2017 \(Best U.S. Stock Year\) and 2018\(Worst Year in most strategies\)
-
-* Cross-Asset Risk Premia
-  * market sensitivity objectives management
-    * by performance attributions - asset class
-      * equities
-      * TY bonds
-      * credit
-      * HFRXGL
-      * Commodities
-      * FX
-  * correlation management
-  * defensiveness study
-  * factor attributions
-    * substrategies
-      * understand how the weight change when market dynamics changed 
-        * risk parity, generalized risk parity 
-* Trend 
-* Volatility Carry
-  * Vol Carry
-  * Dispersion
-  * Dynamic Gamma
-* Equity Factor Strategies
-* Commodity Risk Premia
-  * Carry
-  * COT
-  * Curve
-* IR
-  * carry
-  * value
-* FX
-  * carry, curve
-
-### Strategy Design
-
-* Risk Management Spectrum
-  * hedging techniques
-    * intraday momentum \(short gamma position held by dealers hedging at close will revert in the morning\)
-
-### Factor Investing
-
-* How to test the statistical significance of a new factor/new alpha
-* 
 
 
