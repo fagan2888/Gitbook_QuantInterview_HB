@@ -78,7 +78,8 @@
 
 #### Events and Game
 
-* put n points in a circle, the probability they all end up in a same semi-circle
+* Drunk Passenger: 100 passengers, first 1 drunk. others will randomly pick one is seat is taken, prob your seat is taken
+* N points in a circle: put n points in a circle, the probability they all end up in a same semi-circle
   * inclusion/exclusion/mutual exclusive
 * probability of triangle: stick to form a triangle
   * **\(\*\) what is the distribution of longest piece?**
@@ -147,7 +148,6 @@
 
 #### Process
 
-* Drunk Passenger: 100 passengers, first 1 drunk. others will randomly pick one is seat is taken, prob your seat is taken
 * Birthday  line: choose optimal position in line
 * Amoeba Die out
   * recurrance
