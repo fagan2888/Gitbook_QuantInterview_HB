@@ -1,3 +1,7 @@
+## 
+
+## 
+
 ## Feature Engineering
 
 * label encoding
@@ -12,8 +16,6 @@
   * frequency-based encoding, target-encoding
   * hashing or clustering to combine features
 * too sparse features
-
-
 
 ### Missing Value Handling
 
