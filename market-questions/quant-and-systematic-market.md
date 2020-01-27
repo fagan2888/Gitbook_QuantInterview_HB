@@ -49,8 +49,7 @@ Year 2017 \(Best U.S. Stock Year\) and 2018\(Worst Year in most strategies\)
 ### Factor Investing
 
 * How to test the statistical significance of a new factor/new alpha
-* 
-
+* How to build factor model, deal with factor correlations
 
 
 
