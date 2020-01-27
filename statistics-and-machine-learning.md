@@ -35,6 +35,7 @@ For take-home exercise, often use Jupyter Notebook or R-Markdown. From very open
    1. Understanding features
       1. deal with categorical features \(encoding\)
    2. Feature Engineering
+      1. eg. tokenizing, stemming, word2vec ,TF-IDF
    3. Feature Selection
 4. Models
    1. Pre-proessing before model training
