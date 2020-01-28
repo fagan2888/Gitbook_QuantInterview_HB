@@ -89,7 +89,7 @@
 * All girl world, conditional boy prob
 * Dart game: 3rd dart farther than the first
   * the event nth is the best
-* Monty Hall problem\*
+* [Monty Hall problem](https://brilliant.org/wiki/monty-hall-problem/)
 * candies in a jar: red, blue, green 10,20,30 the probability last is green
 * Russian Roulette
   * the prob of first and second win
