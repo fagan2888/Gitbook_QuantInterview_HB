@@ -64,15 +64,13 @@ Year 2017 \(Best U.S. Stock Year\) 2018\(Worst Year in most strategies\) 2018 \(
     * FX: G20 currency vs EM currency
     * Rates: [Government Bonds](https://en.wikipedia.org/wiki/List_of_government_bonds)
 
-### Strategy Design
+#### Strategy Design
 
 * Risk Management Spectrum
   * hedging techniques
     * intraday momentum \(short gamma position held by dealers hedging at close will revert in the morning\)
-
-### Factor Investing
-
 * How to test the statistical significance of a new factor/new alpha
+  * statistical tests: t-test, ratio test, permutation test
 * How to build factor model, deal with factor correlations
 
 
