@@ -63,7 +63,6 @@ Year 2017 \(Best U.S. Stock Year\) 2018\(Worst Year in most strategies\) 2018 \(
   * common assets
     * FX: G20 currency vs EM currency
     * Rates: [Government Bonds](https://en.wikipedia.org/wiki/List_of_government_bonds)
-* F
 
 ### Strategy Design
 
