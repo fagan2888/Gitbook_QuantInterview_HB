@@ -52,6 +52,7 @@
    * MLE - y is bernoulli function \(entropy loss\)
 
 3. implement Gradient Descent
+
    * entropy loss \(Bernoulli MLE Loss\)
    * Mean Square Loss
 

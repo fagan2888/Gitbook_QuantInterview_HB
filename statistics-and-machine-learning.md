@@ -24,12 +24,15 @@ For take-home exercise, often use Jupyter Notebook or R-Markdown. From very open
 1. Problem
    1. understand the problem
       1. key challenge and necessary domain knowledges
+   2. problem formalization
 2. Data
-   1. Exploratory Data Analysis - understand the data
+   1. Data collection
+   2. Exploratory Data Analysis - understand the data
       1. occasionally: deal with big data
          1. either drop part of the data or use more advanced \(parallel\) platforms
       2. summarize descriptive analysis
-   2. Data Wrangling, Data Cleaning
+   3. Data Processing
+   4. Data Wrangling, Data Cleaning
       1. Missing Value handling and impact analysis
 3. Feature Matrix
    1. Understanding features
@@ -37,7 +40,7 @@ For take-home exercise, often use Jupyter Notebook or R-Markdown. From very open
    2. Feature Engineering
       1. eg. tokenizing, stemming, word2vec ,TF-IDF
    3. Feature Selection
-4. Models
+4. Modelling
    1. Pre-proessing before model training
    2. Optimize metrics
       1. hyper parameters tuning
@@ -49,9 +52,10 @@ For take-home exercise, often use Jupyter Notebook or R-Markdown. From very open
 5. Evaluation
    1. Model Evaluation and Selection\(Offline\)
    2. A/B Testing\(Online\)
-6. Business Value/Summary
-   1. Business Case Analysis
-   2. The most important part
+   3. Business Value/Summary
+      1. Business Case Analysis
+      2. The most important part
+6. Model Deployment
 
 
 
