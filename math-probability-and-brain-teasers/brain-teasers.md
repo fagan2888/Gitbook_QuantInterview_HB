@@ -4,11 +4,12 @@
 2. Tiger and Sheep
 3. x^x^x...
 
-#### Deduction
+### Deduction
 
-1. Birthday Problem
-2. Card Game\(Red and Black, two piles vs dealer\)
-3. Trailing Zeros
+1. Birthday Problem \(guess birthday\)
+2. Card Game
+   * \(two cards each time, both red you take, Red and Black discard two piles vs dealer\)
+3. Trailing Zeros of 100!
 4. last ball \(pull out blue balls and red balls out of the box\)
 5. Quant salary
 6. Clock drop to 3 pieces, equal sum
