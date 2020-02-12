@@ -1,3 +1,32 @@
+## Derivatives Pricing
+
+#### Option price
+
+* S, K, T-t, sigma, r, d
+  * time to maturity impact of European call depends on the dividends
+* Put call parity
+  * synthetic forward
+* American option
+  * never early exercise a call
+    * time value of option
+      * use put-call parity
+      * use replication
+      * use Jensen' inequality
+* Black-Scholes formula
+  * assumptions
+  * Black's form
+* Black-Scholes P.D.E
+* Greeks
+  * definition, intuition, formula
+  * greeks vs spot, maturity, and strike
+* exotic options
+  * binary option
+
+### Others
+
+* Futures and forward
+  * future price vs forward price
+
 ## Factor Investing Strategies
 
 [factor investing](https://en.wikipedia.org/wiki/Factor_investing)

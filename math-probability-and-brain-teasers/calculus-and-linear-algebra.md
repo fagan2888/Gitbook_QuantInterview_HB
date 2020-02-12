@@ -1,4 +1,4 @@
-### Calculus
+# Calculus
 
 1. $$(lnx^{lnx})'$$
    1. use the log trick and chain rule
@@ -20,12 +20,28 @@
 6. Tricks
    1. x^x^... = 2, x = ? if = 4, x = ? 
 
-
-
-Algebra
+# Algebra
 
 * 100th digit of \(1+sqrt\(2\)\)^3000 
   * use Binomial Theorem
+
+
+
+
+
+# Stochastic Calculus
+
+* Brownian motion/Wiener process
+  * zero mean
+  * normal i.i.d. increments with variance dt
+  * continuous
+  * Markov
+* First passage time
+  * Martingale stops at stopping time 
+  * reflection principle
+* Martingale
+  * B\(t\)-t, exponential martingale
+* Ito's Lemma
 
 
 
