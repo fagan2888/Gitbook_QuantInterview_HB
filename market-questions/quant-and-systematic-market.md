@@ -19,6 +19,7 @@
 * Greeks
   * definition, intuition, formula
   * greeks vs spot, maturity, and strike
+  * Gamma sculpting
 * exotic options
   * binary option
 
