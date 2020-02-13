@@ -175,37 +175,5 @@
 * ticket line: 5,10 bills, no change to start with, what is the probability no extra money is needed
 * coin sequence\*: toss a fail coin, expected number of tosses to get n heads in a row? 
 
----
-
-### Probability Algo
-
-#### Random Variables
-
-* x,y and x, z correlation 0.8, whats the max/min correlation for z, y? 
-  * cosine similarity
-  * positive semi-definite property of correlationmatrix
-* generate correlated random variables
-  * Cholesky decomposition $$x = \mu + R^T z$$
-  * SVD decomposition $$x = \mu + UD^{\frac{1}{2}}z$$
-* generate random variables with distribution
-
-  * inverse transformation method
-
-* **rejection method**
-
-* How to shuffle n numbers with every sequence equal probability
-
-  * by sorting + random number sequence : O\(nlogn\)
-  * Knuth Shuffle: sample without putting back \(each 1/n! probability\)
-
-* read data in sequence, how to ensure each data has equal probability to be sampled
-
-  * pick the first, change with 1/2 probability if there is a second ... pick n th and keep with probability n/\(n+1\), change with 1/\(n+1\)
-
-Statistics
-
-* give Z-U\(0,1\) how to draw N\(0,1\) variable
-* give Z-N\(0,1\) how to draw multi-variate \(N\(mu, sigma\)\) variable
-
 
 
