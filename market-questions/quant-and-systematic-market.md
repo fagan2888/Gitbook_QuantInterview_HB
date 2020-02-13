@@ -12,7 +12,7 @@
       * use put-call parity
       * use replication
       * use Jensen' inequality
-* [Black-Scholes formula](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model)
+* [Black-Scholes formula](https://en.wikipedia.org/wiki/Black–Scholes_model)
   * assumptions
   * [Black's \(76\) formula](https://en.wikipedia.org/wiki/Black_model)
 * Black-Scholes P.D.E
@@ -137,6 +137,26 @@ Year 2017 \(Best U.S. Stock Year\) 2018\(Worst Year in most strategies\) 2018 \(
 * How to test the statistical significance of a new factor/new alpha
   * statistical tests: t-test, ratio test, permutation test
 * How to build factor model, deal with factor correlations
+
+---
+
+# Advanced
+
+Options Trading
+
+* Variance swap vs options selling
+  * path dependency
+  * volatility swap
+  * correlation swap
+* calendar collar
+* gamma sculpting - dynamic gamma
+* Dispersion trade
+  * excess supply of single name option: call over-writers, structured product \(PB, retail\), Single stock volatility spread
+  * excess demand of index option
+    * portfolio hedger
+    * variable annuity hedging
+    * capital contraints, CCAR
+    * index volatility spread
 
 
 
