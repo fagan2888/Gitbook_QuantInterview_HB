@@ -12,21 +12,56 @@
       * use put-call parity
       * use replication
       * use Jensen' inequality
-* Black-Scholes formula
+* [Black-Scholes formula](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model)
   * assumptions
-  * Black's form
+  * [Black's \(76\) formula](https://en.wikipedia.org/wiki/Black_model)
 * Black-Scholes P.D.E
 * Greeks
   * definition, intuition, formula
   * greeks vs spot, maturity, and strike
+    * when European options have positive theta
+      * deep in the money put, near maturity
   * Gamma sculpting
+* Volatility surface
+  * call is a convex option regarding to vol 
+    * stochastic vol will increase call value
+  * [local volatility models](https://en.wikipedia.org/wiki/Local_volatility)
+    * Dupire-Derman-Khani
+    * what is risk-neutral distribution of stock price at time T
 * exotic options
   * binary option
+    * price
+    * delta hedge 
+    * replicate \(bull spread\)
+  * exchange option \(currency options\)
+    * change of numerie
+* option trading strategies
+  * bull spread, straddle, strangle
+
+### Fixed-Income
+
+* Duration and Convexity
+* interest rate swap
+  * floater, inverse floater
+* Interest rate models
+  * forward rate model
+    * Heath-Jarrow-Merton model
+  * short-rate models
+    * equilibrium models
+      * Vasicek, Cox-Ingersoll-Ross model
+    * no-arbitrage short-rate models
+      * Hoo-Lee model
+      * Hull-White model
+* Bond portfolio
 
 ### Others
 
 * Futures and forward
   * future price vs forward price
+    * futures is a martingale \(stochastic interest rate and funding/reinvesting risk\)
+* Risk management
+  * value at risk
+    * [coherent risk measures](https://en.wikipedia.org/wiki/Coherent_risk_measure)
 
 ## Factor Investing Strategies
 
