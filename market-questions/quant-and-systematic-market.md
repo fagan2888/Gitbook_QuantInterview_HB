@@ -72,32 +72,12 @@
 * Smar-beta \(ETF\) and Dynamic Beta market share
   * Emerging after 2011
   * x6.4 in past 10 years
-  * Dec 16, 340 billion , \(% 36 asset owners has\), Dec 17, 410 billion \(46% asset owner has\)
+  * Increasing fast
+    * Dec 16 -340 billion , \(% 36 asset owners has\) Dec-
+    * 17, 410 billion \(46% asset owner has\)
 
-#### Performance Analysis
+#### Common Factors
 
-Year 2017 \(Best U.S. Stock Year\) 2018\(Worst Year in most strategies\) 2018 \(bad year for equity factors \(momentum, low beta\), good for macro strategies\(FX, rates value, carry\)\)
-
-* Cross-Asset Risk Premia
-  * market sensitivity objectives management
-    * by performance attributions - asset class
-      * equities
-      * TY bonds
-      * credit
-      * HFRXGL
-      * Commodities
-      * FX
-  * correlation management
-  * defensiveness study
-  * factor attributions
-    * substrategies
-      * understand how the weight change when market dynamics changed 
-        * risk parity, generalized risk parity 
-* Trend 
-* Volatility Carry
-  * Vol Carry
-  * Dispersion
-  * Dynamic Gamma
 * Equity Factor Strategies
   * value and momentum
     * value is debatable
@@ -108,27 +88,59 @@ Year 2017 \(Best U.S. Stock Year\) 2018\(Worst Year in most strategies\) 2018 \(
   * quality
   * size
     * sensitive to "risk-on" "risk-off"
-* Commodity 
-  * Momentum and Carry
-  * Carry
-  * COT
-  * Curve
-  * TimeSpread/Seasonality
-  * Trader's position\(supply/demand\)
-  * higher volatility \(supply and demand shocks\) so faster speed signals \(momentum, timespread\)
-    * volatility source could vary from trade-war, swine flu, weather to sugar supply, Petroleum price change
-    * asset specific features, eg soy-bean, live cattle
-* Rates and FX
+* Volatility Strategies
+  * Vol Carry
+  * Dispersion
+  * Dynamic Gamma
+  * long vol, short vol strategies
+    * call overwriting, calendar collar
+* Rates
   * carry
-    * lt rates - short term rates - roll down
+    * long term rates - short term rates - roll down
   * value
     * yield - inflation expecation
-  * curve/trend
+  * momentum/trend
+    * time-series of cross-sectional momentum
   * more sensitive to macro-environment, eg. market sell off, currency sell off, political events, monetary policies
   * common assets
-    * FX: G20 currency vs EM currency
-    * Rates: [Government Bonds](https://en.wikipedia.org/wiki/List_of_government_bonds)
+    * Rates: [Government Bonds](https://en.wikipedia.org/wiki/List_of_government_bonds) bond futures
+    * Commodity 
 
+* Momentum and Carry
+* Carry
+* COT
+* Curve
+* TimeSpread/Seasonality
+* Trader's position\(supply/demand\)
+* higher volatility \(supply and demand shocks\) so faster speed signals \(momentum, timespread\)
+* volatility source could vary from trade-war, swine flu, weather to sugar supply, Petroleum price change
+
+* asset specific features, eg soy-bean, live cattle
+
+#### Factor Performance Analysis
+
+Recent Performance
+
+Year 2017 \(Best U.S. Stock Year\) 2018\(Worst Year in most strategies\) 2019 \(bad year for equity factors \(momentum, low beta\), good for macro strategies\(FX, rates value, carry\)\)
+
+Cross-Asset Risk Premia performance analysis usually include
+
+* market sensitivity objectives management
+  * by performance attributions - asset class
+    * equities
+    * TY bonds
+    * credit
+    * HFRXGL
+    * Commodities
+    * FX
+* correlation management
+* defensiveness study
+* factor attributions
+  * substrategies
+    * understand how the weight change when market dynamics changed 
+      * risk parity, generalized risk parity 
+
+* 
 #### Strategy Design
 
 * Risk Management Spectrum
