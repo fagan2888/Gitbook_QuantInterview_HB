@@ -78,44 +78,75 @@
 
 #### Common Factors
 
-* Equity Factor Strategies
-  * value and momentum
-    * value is debatable
-    * momentum \(time-series momentum\) has defensiveness
-      * long-short strategies could lose on the short position as well
-  * low beta
-    * sensitive to market sentiment - "risk on" and "risk off"
-  * quality
-  * size
-    * sensitive to "risk-on" "risk-off"
-* Volatility Strategies
-  * Vol Carry
-  * Dispersion
-  * Dynamic Gamma
-  * long vol, short vol strategies
-    * call overwriting, calendar collar
-* Rates
-  * carry
-    * long term rates - short term rates - roll down
-  * value
-    * yield - inflation expecation
-  * momentum/trend
-    * time-series of cross-sectional momentum
-  * more sensitive to macro-environment, eg. market sell off, currency sell off, political events, monetary policies
-  * common assets
-    * Rates: [Government Bonds](https://en.wikipedia.org/wiki/List_of_government_bonds) bond futures
-    * Commodity 
+**Equity Factor Strategies**
 
-* Momentum and Carry
+* value and momentum
+  * value is debatable
+  * momentum \(time-series momentum\) has defensiveness
+    * long-short strategies could lose on the short position as well
+* low beta
+  * sensitive to market sentiment - "risk on" and "risk off"
+* quality
+* size
+  * sensitive to "risk-on" "risk-off"
+
+**Volatility Strategies**
+
+* Vol Carry
+  * equities: focus on hedging, intraday hedging, dynamic delta
+  * Rates: treasury future,
+    *  OTM strangle strikes needs to be spreaded
+    * multiple expiries \(vega risk smoother\) 
+    * delta hedging smoothing over days \(liquidity\)
+  * FX
+    * long vol - US corporates, Event driven, macro hedge fungs
+    * short vol - retail, European and EM corporations, dealers, ..
+    * sell currency strangles: GBP, JPY USD
+  * Commod
+    * intraday hedging
+* Dispersion
+  * excess demand of index options
+    * portfolio hedgers, variable annuity hedging, capital constriants, CCAR, index vol spread
+  * excess supply of single name options
+    * call overwriters, structured products, PB, retail
+* Dynamic Gamma
+* long vol, short vol strategies
+  * call overwriting, calendar collar
+
+**Rates**
+
+* carry
+  * long term rates - short term rates - roll down
+* value
+  * yield - inflation expecation
+* momentum/trend
+  * time-series of cross-sectional momentum
+  * multiple windows, signal smoothing 
+* more sensitive to macro-environment, eg. market sell off, currency sell off, political events, monetary policies
+* common assets
+  * Rates: [Government Bonds](https://en.wikipedia.org/wiki/List_of_government_bonds) bond futures
+
+**FX**
+
+* carry
+  * implied by FX forwards
+* Trend/momentum
+* value
+  * implied by Purchasing power parity
+* assets: FX fowards
+
+**Commodity **
+
+* Momentum/Trend
 * Carry
-* COT
+* Supply/demand based
+  * Cogestions
+  * Time Spread/Seasonalities
 * Curve
-* TimeSpread/Seasonality
-* Trader's position\(supply/demand\)
 * higher volatility \(supply and demand shocks\) so faster speed signals \(momentum, timespread\)
 * volatility source could vary from trade-war, swine flu, weather to sugar supply, Petroleum price change
 
-* asset specific features, eg soy-bean, live cattle
+asset specific features, eg soy-bean, live cattle
 
 #### Factor Performance Analysis
 
@@ -136,16 +167,17 @@ Cross-Asset Risk Premia performance analysis usually include
 * correlation management
 * defensiveness study
 * factor attributions
+
   * substrategies
     * understand how the weight change when market dynamics changed 
       * risk parity, generalized risk parity 
 
-* 
-#### Strategy Design
-
+* #### Strategy Design
 * Risk Management Spectrum
+
   * hedging techniques
     * intraday momentum \(short gamma position held by dealers hedging at close will revert in the morning\)
+
 * How to test the statistical significance of a new factor/new alpha
   * statistical tests: t-test, ratio test, permutation test
 * How to build factor model, deal with factor correlations
