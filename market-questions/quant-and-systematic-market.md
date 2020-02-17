@@ -65,7 +65,15 @@
 
 ## Factor Investing Strategies
 
-[factor investing](https://en.wikipedia.org/wiki/Factor_investing)
+### Concepts
+
+* [factor investing](https://en.wikipedia.org/wiki/Factor_investing)
+* information ratio
+  * Sharpe, [Treynor Ratio](https://www.investopedia.com/terms/t/treynorratio.asp), Sortino, T-Sharpe
+* Information Coefficient
+  * [Rule of Thumb](https://financemodelsrevisited.files.wordpress.com/2015/10/fc_rule_am_law2.pdf)
+  * Fundamental Law of Active Management
+  * Transfer Coefficient\(\*\)
 
 #### Passive Investing as a New Asset Class
 
@@ -95,7 +103,7 @@
 * Vol Carry
   * equities: focus on hedging, intraday hedging, dynamic delta
   * Rates: treasury future,
-    *  OTM strangle strikes needs to be spreaded
+    * OTM strangle strikes needs to be spreaded
     * multiple expiries \(vega risk smoother\) 
     * delta hedging smoothing over days \(liquidity\)
   * FX
@@ -179,7 +187,9 @@ Cross-Asset Risk Premia performance analysis usually include
     * intraday momentum \(short gamma position held by dealers hedging at close will revert in the morning\)
 
 * How to test the statistical significance of a new factor/new alpha
+
   * statistical tests: t-test, ratio test, permutation test
+
 * How to build factor model, deal with factor correlations
 
 ---
