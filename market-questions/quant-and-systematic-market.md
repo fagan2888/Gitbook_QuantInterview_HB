@@ -70,7 +70,7 @@
 * [factor investing](https://en.wikipedia.org/wiki/Factor_investing)
 * information ratio
   * Sharpe, [Treynor Ratio](https://www.investopedia.com/terms/t/treynorratio.asp), Sortino, T-Sharpe
-* Information Coefficient
+* [Information Coefficient](https://www.investopedia.com/terms/i/information-coefficient.asp)
   * [Rule of Thumb](https://financemodelsrevisited.files.wordpress.com/2015/10/fc_rule_am_law2.pdf)
   * Fundamental Law of Active Management
   * Transfer Coefficient\(\*\)
