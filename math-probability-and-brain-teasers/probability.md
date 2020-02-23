@@ -164,6 +164,7 @@
 
 ##### Markov Chain
 
+* Chameleon Colors: 12, 15 and 17 Chameleons
 * Dice game: A first dice 7-7 wins, B first dice sum of 12 wins. Probability?
 * Coin Game: expected tosses to see HHH or THH?
 * Color Balls\*: each time take out ball, paint first same as second, expected time to see all balls same color
