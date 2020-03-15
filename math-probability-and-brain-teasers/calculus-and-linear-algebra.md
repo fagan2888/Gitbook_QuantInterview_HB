@@ -1,3 +1,25 @@
+
+---
+
+# Linear Algebra
+
+### Concepts
+
+* Vectors and Matrix
+  * vectors
+  * matrix operations
+    * invertible and singular matrix
+    * relationship between linear system and matrix
+    * permutation matrix
+    * Gaussian elimination
+    * matrix factorization
+* Vector Space
+  * row space, column space
+  * null space
+  * rank
+  * span
+    * rank, span and solution of linear system
+
 # Calculus
 
 1. $$(lnx^{lnx})'$$
@@ -24,10 +46,6 @@
 
 * 100th digit of \(1+sqrt\(2\)\)^3000 
   * use Binomial Theorem
-
-
-
-
 
 # Stochastic Calculus
 
