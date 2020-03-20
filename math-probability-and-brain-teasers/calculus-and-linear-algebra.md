@@ -12,13 +12,42 @@
     * relationship between linear system and matrix
     * permutation matrix
     * Gaussian elimination
+      * Echelon matrix
+      * pivot variables, \(\# = C\(A\)\), free variable\(\# = N\(A\)\)
+      * special solutions
+      * Null matrix
     * matrix factorization
 * Vector Space
-  * row space, column space
-  * null space
+  * definition
+    * commutative, associative, distributive, unique identity
+    * uniqueness of identity and inverse
+  * row space, column space C\(A\)
+  * null space N\(A\)
+  * Linearly dependent
   * rank
   * span
     * rank, span and solution of linear system
+  * basis
+    * **basis of matrix spaces and function spaces**
+  * dimension
+
+### Questions
+
+* Solve a linear equation
+* relationship between Ax=b and Ax = 0
+  * special solution, rank, and linear space
+* when is a matrix invertible \(A-1b as only solution\)
+* full row rank vs full column rank
+  * full column rank
+    * all columns are pivot columns
+    * no free variables \(null space 0 dimension\)
+    * invertible, determined
+  * full row rank 
+    * columns spans whole space
+    * n - r = n - m solutions
+    * if m &lt; n, undetermined
+
+---
 
 # Calculus
 
